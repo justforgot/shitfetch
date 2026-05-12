@@ -1,4 +1,4 @@
-#i need to shit
+#pretty simple python script
 import os
 import sys
 
