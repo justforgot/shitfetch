@@ -2,5 +2,5 @@
 import os
 import sys
 
-sys.platform
-os.name
+print("Kernel/sys =", sys.platform)
+print("OS type =", os.name)
